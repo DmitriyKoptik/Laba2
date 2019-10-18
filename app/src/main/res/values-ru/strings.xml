@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Лаба2</string>
+    <string name="button" translatable="false">Далее</string>
+    <string name="enterText" translatable="false">Введите текст</string>
+</resources>

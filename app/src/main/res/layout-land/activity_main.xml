@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+            android:id="@+id/editTextMain"
+            android:layout_width="match_parent"
+            android:layout_height="94dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            style="@style/WelcomeText"
+            android:text="@string/enterText"/>
+
+    <Button
+        android:id="@+id/buttonMain"
+        style="@style/WelcomeText"
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:text="@string/button" />
+    <TextView
+            android:id="@+id/textViewMain"
+            android:layout_width="match_parent"
+            android:layout_height="74dp"
+            style="@style/WelcomeText"
+            android:freezesText="true"
+            android:text=""/>
+</LinearLayout>

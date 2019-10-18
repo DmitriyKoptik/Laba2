@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laba2</string>
+    <string name="button" translatable="false">Next</string>
+    <string name="enterText" translatable="false">Enter text</string>
+</resources>
